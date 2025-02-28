@@ -1,0 +1,2372 @@
+{
+  "template": "template5",
+  "isShownInCollection": false,
+  "floatingButton": {
+    "text": "Skip To Top 5",
+    "backgroundColor": "#000000",
+    "textColor": "#FFFFFF",
+    "borderColor": "#FFFFFF"
+  },
+  "layout": {
+    "headerBackgroundColor": "#E9F1E8",
+    "contentBackgroundColor": "#F8F9F8"
+  },
+  "header": {
+    "navigationBorderColor": "#A1AA9F",
+    "navigationBorderIsRounded": true,
+    "title": "Best Snoring Remedies in 2023",
+    "subTitle": "Discover the most effective anti-snoring solutions and end restless nights!",
+    "navigationTitle": "Skip To:",
+    "navigationItems": ["Top 5", "Product Checklist", "Benefits"]
+  },
+  "introduction": {
+    "backgroundColor": "#FFFFFF",
+    "writtenBy": [
+      {
+        "text": "Written by",
+        "isBold": false,
+        "textColor": "#676",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Mark Mitchell",
+        "isBold": false,
+        "textColor": "#3E8F72",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "-",
+        "isBold": false,
+        "textColor": "#000",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Sleep Expert",
+        "isBold": true,
+        "textColor": "#04905E",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": ".",
+        "isBold": true,
+        "textColor": "#676767",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "section1Title": "The Importance of Addressing Snoring Issues",
+    "section1Descriptions": [
+      {
+        "paragraph": [
+          {
+            "text": "Did you know? Snoring affects over 90 million American.",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "This chronic snoring prevents the body from reaching the restorative stages of sleep necessary to function properly. Over time, poor sleep quality from frequent snoring has been linked to issues like",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "high blood pressure, stroke, impaired concentration and memory, and mood swings.",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "paragraph": [
+          {
+            "text": "However, snoring has an even wider impact. The lack of deep sleep can negatively affect mood, behavior, and mental health over time. Studies show relationships between snoring and problems like anxiety, depression and emotional reactivity.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "paragraph": [
+          {
+            "text": "Luckily, with the",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "right anti-snoring  product,",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "it's possible to minimize or eliminate the disruptions caused by snoring. Read on to discover the benefits and our",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "top 5 expert ranked list",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "of products.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "section2Title": "Potential Problems of Ignoring Snoring Issues",
+    "section2Descriptions": [
+      {
+        "paragraph": [
+          {
+            "text": "Failing to find a remedy for frequent snoring can lead to discomfort at best and serious health complications at worst. Possible issues include:",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "section2List": [
+      {
+        "text": "Daytime fatigue and sleepiness",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Anxiety and depression",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Impaired focus and concentration",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Relationship strain",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Increased risk of high blood pressure",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Reduced work performance",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Higher chance of stroke",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ]
+  },
+  "benefits": {
+    "backgroundColor": "#FFFFFF",
+    "listItemBackgroundColor": "#E9F1E8",
+    "iconsColor": "#596059",
+    "section1Title": [
+      {
+        "text": "Benefits of Anti-Snoring Solutions",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "Section1SubTitle": [
+      {
+        "text": "There are endless scientific studies which highlight the benefits of anti-snoring solutions. Snoring remedies work to open airways and prevent throat tissues from vibrating as you sleep. Effective snoring remedies bring the following benefits:",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "section2Title": [
+      {
+        "text": "High Quality Anti-Snoring Solution Can:",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "section2List": [
+      {
+        "text": "Open airways, improve breathing",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "yellow",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Let partners sleep peacefully",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "yellow",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Reduce daytime fatigue",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Lower blood pressure risk",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "yellow",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Prevent oxygen drops",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Improve mental focus",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Allow deeper, restorative sleep",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "yellow",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Minimize health issue",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "false",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ]
+  },
+  "lookfor": {
+    "backgroundColor": "#FFFFFF",
+    "title": [
+      {
+        "text": "What To Look For In Anti-Snoring Aids",
+        "isBold": false,
+        "textColor": "#00B473",
+        "highlightColor": "false",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "description": [
+      {
+        "text": "Anti-snoring remedies ar NOT are equal.",
+        "isBold": true,
+        "textColor": "",
+        "highlightColor": "yellow",
+        "isUnderlined": false,
+        "link": ""
+      },
+      {
+        "text": "Choosing the wrong one can be a waste of money. High quality snoring solutions should have the following characterictics:",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "iconsColor": "#00B473",
+    "list": [
+      {
+        "title": [
+          {
+            "text": "Proven Effectiveness",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "The product or remedy should have solid evidence from clinical studies showing it reduces or stops snoring.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Targets Root Cause",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "It should address your specific reason for snoring such as obstructions, poor sleep position, etc",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Comfort",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "It needs to be comfortable enough to use all night without much disruption to your sleep. ",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Ease of Use",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "The aid should be simple and easy to use each night.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  "checkList": {
+    "backgroundColor": "#FFFFFF",
+    "title": [
+      {
+        "text": "Your Definitive Checklist for Snoring Remedies",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "description": [
+      {
+        "text": "To recap, make sure you are purchasing a anti-snoring device that comes with:",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "iconsColor": "#2D5DCA",
+    "borderListColor": "#CDCDCD",
+    "list": [
+      {
+        "title": [
+          {
+            "text": "Clinically Tested Designs",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "Look for snoring devices that have been clinically tested and shown effective in independent sleep studies. This indicates the design is backed by scientific research, not just marketing claims.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Money-Back Guarantee",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "yellow",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "Brands with a money back guarantee are more likely to have higher quality products and lower risks if they don't work.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Certified Safe Materials",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "The materials should be certified free of BPAs, latex, phthalates or other harmful chemicals. Prolonged contact means the materials safety matters. Medical-grade silicone is often the safest option.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "text": "Made in USA",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "description": [
+          {
+            "text": "Toxic and dangerous materials could make their way in foreign sourced products. Look for locally manufactured brands that are  with the composition of their product.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  "evaluated": {
+    "title": [
+      {
+        "text": "How We Evaluated the Top 5",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "list": [
+      {
+        "imageColor": "#2D5DCA",
+        "imageUrl": "Effectiveness.svg",
+        "text": [
+          {
+            "text": "Effectiveness",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "imageColor": "#2D5DCA",
+        "imageUrl": "materials.png",
+        "text": [
+          {
+            "text": "Materials",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "imageColor": "#2D5DCA",
+        "imageUrl": "money.svg",
+        "text": [
+          {
+            "text": "Value for Money",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "imageColor": "#2D5DCA",
+        "imageUrl": "customerService.svg",
+        "text": [
+          {
+            "text": "Customer Service",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  "products": {
+    "title": [
+      {
+        "text": "Top 5 Snoring Remedies of 2023",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "items": [
+      {
+        "borderColor": "#00B473",
+        "image": "snoring-image-1.png",
+        "badgeIcon": true,
+        "title": [
+          {
+            "text": "1. Anti-Snoring Mouthpiece",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "subTitle": [
+          {
+            "text": "by",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "Dream Hero",
+            "isBold": true,
+            "textColor": "#00B473",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "rating": {
+          "text": "OVERALL GRADE",
+        "value": "A+"
+        },
+        "ranking": {
+          "value": 9.7,
+          "votes": "336",
+          "backgroundInnerColor": "#c5eed9",
+          "backgroundFilledColor": "#5FCE92",
+          "text": "TOTAL RANKING"
+        },
+        "informationList": [
+          {
+            "text": [
+              {
+                "text": "MATERIAL SAFETY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.9
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "PROJECTED EFECTIVENESS",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.8
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "VALUE",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.7
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "RETURN POLICY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.5
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "CUSTOMER SATISFACTION",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.6
+            }
+          }
+        ],
+        "prosList": [
+          {
+            "paragraph": [
+              {
+                "text": "Reduce Snoring",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "FDA Certified",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Safe Materials",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Lightweight and Comfortable",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Made in USA",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Custom Fit",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "30 Day Money Back Guarantee",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Recommended by Dentists",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "consList": [
+          {
+            "paragraph": [
+              {
+                "text": "Only Available Online",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Sometimes Out of Stock",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "bottomLineDescription": [
+          {
+            "paragraph": [
+              {
+                "text": "Of all anti-snoring mouth guards that we tested on the market,",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "Dream Hero Dentist Recommended Mouth guard",
+                "isBold": false,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "is the clear winner.",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "With its",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "FDA-cleared design that advances the lower jaw,",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "their product has",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "shown one of the highest efficacies",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "for reducing snoring. In addition, by",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "using a patented micro-adjustment system.",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "This allows for incremental adjustments to the lower jaw, ensuring the mouthpiece is tailored to each user's needs.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "When compared to other anti-snoring mouthguards on the market, the",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "DreamHero",
+                "isBold": false,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "showcases the most advanced mandibular advancement system",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "and",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "includes innovative features other brands don't offer.",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "DreamHero",
+                "isBold": true,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "features patented Living Hinge technology that",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "incrementally advances the jaw while allowing natural motion.",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "It also",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "includes an airflow post for unobstructed breathing,",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "setting it apart from fixed-jaw devices.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "By combining these features,",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "DreamHero",
+                "isBold": true,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "offers",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "one of the most advanced mouthguards designed to alleviate snoring",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "yellow",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "and its associated symptoms, including an increased risk of high blood pressure, daytime fatigue, sleepiness, and more.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "DreamHero",
+                "isBold": true,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "is",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "Made in the USA",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "and comes with a",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "30 Day Money Back Guarantee + Free Shipping.",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "This helps ensure the safety and accuracy of their product and allows snorer to try them risk-free.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Overall, we have rated",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "DreamHero",
+                "isBold": true,
+                "textColor": "#001AFF",
+                "highlightColor": "",
+                "isUnderlined": true,
+                "link": "https://go.echoique.com/click/1"
+              },
+              {
+                "text": "as having",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "the best anti-snoring mouth guard on the market in 2023",
+                "isBold": true,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              },
+              {
+                "text": "from all those that we tested.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "button": {
+          "rounded": true,
+          "isXl": true,
+          "backgroundColor": "#1A9954",
+          "borderColor": "#1A9954",
+          "textColor": "#FFFFFF",
+          "text": "VISIT WEBSITE >>",
+          "linkUrl": "https://go.echoique.com/click/1"
+        }
+      },
+      {
+        "borderColor": "#E7E7E7",
+        "image": "snoring-image-2.png",
+        "badgeIcon": false,
+        "title": [
+          {
+            "text": "2. Anti-Snoring Mouthpiece",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "subTitle": [
+          {
+            "text": "by Zquiet",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "rating": {
+          "text": "OVERALL GRADE",
+        "value": "B+"
+        },
+        "ranking": {
+          "value": 8.4,
+          "votes": "315",
+          "backgroundInnerColor": "#FFEFD0",
+          "backgroundFilledColor": "#FFB628",
+          "text": "TOTAL RANKING"
+        },
+        "informationList": [
+          {
+            "text": [
+              {
+                "text": "MATERIAL SAFETY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.2
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "PROJECTED EFECTIVENESS",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.0
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "VALUE",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.1
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "RETURN POLICY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.2
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "CUSTOMER SATISFACTION",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.8
+            }
+          }
+        ],
+        "prosList": [
+          {
+            "paragraph": [
+              {
+                "text": "Trusted Brand",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "FDA Approved",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Made in USA",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Dentist Recommended",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "consList": [
+          {
+            "paragraph": [
+              {
+                "text": "No Adjustability",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Not Clinically Tested",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Availability",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "No Money Back Guarantee",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "bottomLineDescription": [
+          {
+            "paragraph": [
+              {
+                "text": "Zquiet's Anti-Snoring Device is a dentist-approved brand that offers an easy-fit design and promises quiet nights. However, there are some aspects that place it in second place.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "The device doesn't offer incremental adjustability, which is crucial for ensuring the perfect fit and maximum comfort. Without this adjustability, some users may find it less effective. Moreover, Zquiet lacks certain premium features, such as a breathable airflow design or hypoallergenic materials, which are often found in top-tier snoring solutions.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Overall, Zquiet's device is of commendable quality, but if you're on the hunt for the ultimate anti-snoring solution, this might not be the one",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "button": {
+          "rounded": true,
+          "isXl": false,
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#1A9954",
+          "textColor": "#FFFFFF",
+          "text": "READ MORE",
+          "linkUrl": "https://go.echoique.com/click/2"
+        }
+      },
+      {
+        "borderColor": "#E7E7E7",
+        "image": "snoring-image-3.png",
+        "badgeIcon": false,
+        "title": [
+          {
+            "text": "3. Anti-Snore Nasal Dilator",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "subTitle": [
+          {
+            "text": "by Hale",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "rating": {
+          "text": "OVERALL GRADE",
+          "value": "B"
+        },
+        "ranking": {
+          "value": 8.1,
+          "votes": "307",
+          "backgroundInnerColor": "#F8D1C5",
+          "backgroundFilledColor": "#FF9171",
+          "text": "TOTAL RANKING"
+        },
+        "informationList": [
+          {
+            "text": [
+              {
+                "text": "MATERIAL SAFETY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.7
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "PROJECTED EFECTIVENESS",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.9
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "VALUE",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 9.0
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "RETURN POLICY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.2
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "CUSTOMER SATISFACTION",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.6
+            }
+          }
+        ],
+        "prosList": [
+          {
+            "paragraph": [
+              {
+                "text": "Designed by ENT doctor",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Clinically proven",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Multiple sizes available",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "consList": [
+          {
+            "paragraph": [
+              {
+                "text": "May feel uncomfortable",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Ongoing cost",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Only Available Online",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Sometimes Out of Stock",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "bottomLineDescription": [
+          {
+            "paragraph": [
+              {
+                "text": "Hale Breathing Aid is an FDA-registered nasal dilator developed by doctors at Johns Hopkins containing internal splints. However, Hale has some downsides that prevent it from being the best option for all snorers.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "The one-size nasal splints may not fit every nose shape optimally. The material can also cause discomfort during initial use. Hale lacks exterior dilators for added support and the band may fall out during sleep.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "While Hale offers internal nasal dilation, it lacks customization and exterior support available in higher-rated products. For those seeking complete relief, Hale has some limitations.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "button": {
+          "rounded": true,
+          "isXl": false,
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#1A9954",
+          "textColor": "#FFFFFF",
+          "text": "READ MORE",
+          "linkUrl": "https://go.echoique.com/click/2"
+        }
+      },
+      {
+        "borderColor": "#E7E7E7",
+        "image": "snoring-image-4.png",
+        "badgeIcon": false,
+        "title": [
+          {
+            "text": "4. Nasal Strips",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "subTitle": [
+          {
+            "text": "by Snoreaway",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "rating": {
+          "text": "OVERALL GRADE",
+          "value": "C"
+        },
+        "ranking": {
+          "value": 7.6,
+          "votes": "356",
+          "backgroundInnerColor": "#F8D1C5",
+          "backgroundFilledColor": "#FF9171",
+          "text": "TOTAL RANKING"
+        },
+        "informationList": [
+          {
+            "text": [
+              {
+                "text": "MATERIAL SAFETY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.5
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "PROJECTED EFECTIVENESS",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.0
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "VALUE",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.1
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "RETURN POLICY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.0
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "CUSTOMER SATISFACTION",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.4
+            }
+          }
+        ],
+        "prosList": [
+          {
+            "paragraph": [
+              {
+                "text": "Effective ",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Easy to remove",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "consList": [
+          {
+            "paragraph": [
+              {
+                "text": "Can irritate sensitive skin",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Poor Potency",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Bad Value For Money",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "No Moneyback Guarantee",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "bottomLineDescription": [
+          {
+            "paragraph": [
+              {
+                "text": "At first glance, this anti-snoring device seems promising with its dual vortex technology to ensure peaceful sleep. However, while it's made from quality materials and is easy to use, the battery lasts only 8 hours when fully charged which may not cater to longer sleep durations. Furthermore, frequent recharging might not be ideal for everyone.",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "button": {
+          "rounded": true,
+          "isXl": false,
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#1A9954",
+          "textColor": "#FFFFFF",
+          "text": "READ MORE",
+          "linkUrl": "https://go.echoique.com/click/4"
+        }
+      },
+      {
+        "borderColor": "#E7E7E7",
+        "image": "snoring-image-5.png",
+        "badgeIcon": false,
+        "title": [
+          {
+            "text": "5. Nasal Strips",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "subTitle": [
+          {
+            "text": "by Breathe Right",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ],
+        "rating": {
+          "text": "OVERALL GRADE",
+          "value": "D+"
+        },
+        "ranking": {
+          "value": 6.9,
+          "votes": "356",
+          "backgroundInnerColor": "#FFECE7",
+          "backgroundFilledColor": "#FF7171",
+          "text": "TOTAL RANKING"
+        },
+        "informationList": [
+          {
+            "text": [
+              {
+                "text": "MATERIAL SAFETY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.5
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "PROJECTED EFECTIVENESS",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 7.6
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "VALUE",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 7.3
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "RETURN POLICY",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.1
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "CUSTOMER SATISFACTION",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ],
+            "bar": {
+              "color": "#5FCE92",
+              "value": 8.2
+            }
+          }
+        ],
+        "prosList": [
+          {
+            "paragraph": [
+              {
+                "text": "Strong adhesive",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Easy to remove",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "consList": [
+          {
+            "paragraph": [
+              {
+                "text": "Can irritate sensitive skin",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Poor Value For Money",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "Ongoing cost",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "text": "No Moneyback Guarantee",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "bottomLineDescription": [
+          {
+            "paragraph": [
+              {
+                "text": "At first glance, these nasal strips come across as a hassle-free remedy for snoring and congestion. But, diving deeper into its features, it's evident that while they are easily removable and lack active ingredients, they might be problematic for those with sensitive skin. We wouldn't suggest these for individuals with particularly delicate skin and would advise seeking out alternatives that are more skin-friendly. ",
+                "isBold": false,
+                "textColor": "",
+                "highlightColor": "",
+                "isUnderlined": false,
+                "link": ""
+              }
+            ]
+          }
+        ],
+        "button": {
+          "rounded": true,
+          "isXl": false,
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#1A9954",
+          "textColor": "#FFFFFF",
+          "text": "READ MORE",
+          "linkUrl": "https://www.amazon.es/Breathe-Right-Nasal-Strips-Medium-30/dp/B00854IX48"
+        }
+      }
+    ]
+  },
+  "bestChoice": {
+    "layout": {
+      "borderColor": "#1A9954",
+      "rounded": true,
+      "backgroundColor": "#FFFFFF",
+      "headerBackgroundColor": "#E9F1E8",
+      "footerBackgroundColor": "#E9F1E8"
+    },
+    "headerTitle": [
+      {
+        "text": "Final Verdict",
+        "isBold": false,
+        "textColor": "#1A9954",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "title": [
+      {
+        "text": "Top Anti-Snoting Aids of 2023",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "image": "snoring-image-1.png",
+    "list": [
+      {
+        "backgroundColor": "#86C17B",
+        "textColor": "#FFFFFF",
+        "text": "Effectiveness",
+        "grade": "A+"
+      },
+      {
+        "backgroundColor": "#86C17B",
+        "textColor": "#FFFFFF",
+        "text": "Material Safety",
+        "grade": "A+"
+      },
+      {
+        "backgroundColor": "#86C17B",
+        "textColor": "#FFFFFF",
+        "text": "Value for Money",
+        "grade": "A+"
+      },
+      {
+        "backgroundColor": "#86C17B",
+        "textColor": "#FFFFFF",
+        "text": "Customer Service",
+        "grade": "A+"
+      }
+    ],
+    "description": [
+      {
+        "paragraph": [
+          {
+            "text": "This dentist-recommended anti-snoring mouthguard from",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "Dream Hero",
+            "isBold": true,
+            "textColor": "#001AFF",
+            "highlightColor": "",
+            "isUnderlined": true,
+            "link": "https://go.echoique.com/click/1"
+          },
+          {
+            "text": "earns our award for the",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "highest quality snoring remedy on the market. With proven results, a science-backed design,",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "and a",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "money-back guarantee,",
+            "isBold": true,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          },
+          {
+            "text": "it's the safest bet to start seeing significant improvements in your snoring.",
+            "isBold": false,
+            "textColor": "",
+            "highlightColor": "",
+            "isUnderlined": false,
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "button": {
+      "rounded": true,
+      "isXl": true,
+      "backgroundColor": "#2D9538",
+      "borderColor": "#2D9538",
+      "textColor": "#FFFFFF",
+      "text": "SHOP NOW",
+      "linkUrl": "https://go.echoique.com/click/1"
+    },
+    "footer": [
+      {
+        "image": "from",
+        "textColor": "#0D1329",
+        "text": "MADE IN U.S.A"
+      },
+      {
+        "image": "guarantee",
+        "textColor": "#0D1329",
+        "text": "MONEY-BACK GUARANTEE"
+      },
+      {
+        "image": "shipping",
+        "textColor": "#0D1329",
+        "text": "FREE SHIPPING"
+      }
+    ]
+  },
+  "sources": {
+    "title": [
+      {
+        "text": "Sources:",
+        "isBold": false,
+        "textColor": "",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": ""
+      }
+    ],
+    "items": [
+      {
+        "text": "https://clinmedjournals.org/articles/jsdm/journal-of-sleep-disorders-and-management-jsdm-5-022.php?jid=jsdm",
+        "isBold": false,
+        "textColor": "#2D5DCA",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": "https://clinmedjournals.org/articles/jsdm/journal-of-sleep-disorders-and-management-jsdm-5-022.php?jid=jsdm"
+      },
+      {
+        "text": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8977863/",
+        "isBold": false,
+        "textColor": "#2D5DCA",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8977863/"
+      },
+      {
+        "text": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8345503/",
+        "isBold": false,
+        "textColor": "#2D5DCA",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8345503/"
+      },
+      {
+        "text": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292/",
+        "isBold": false,
+        "textColor": "#2D5DCA",
+        "highlightColor": "",
+        "isUnderlined": false,
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292/"
+      }
+    ]
+  }
+}
